@@ -1,0 +1,7 @@
+node_modules/
+.next/
+server/__pycache__/
+.env
+*.pyc
+data/*.csv
+.DS_Store
